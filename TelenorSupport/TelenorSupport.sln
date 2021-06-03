@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelenorSupport", "TelenorSupport.csproj", "{186554B7-AE8B-469A-9577-299CF9CB3DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\Common\Common.csproj", "{22A93164-7158-4052-B94A-12B14B2ADB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186554B7-AE8B-469A-9577-299CF9CB3DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186554B7-AE8B-469A-9577-299CF9CB3DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186554B7-AE8B-469A-9577-299CF9CB3DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186554B7-AE8B-469A-9577-299CF9CB3DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A93164-7158-4052-B94A-12B14B2ADB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A93164-7158-4052-B94A-12B14B2ADB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A93164-7158-4052-B94A-12B14B2ADB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A93164-7158-4052-B94A-12B14B2ADB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543D22AB-7A96-4F70-B3F6-F5BE6E75742B}
+	EndGlobalSection
+EndGlobal

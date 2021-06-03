@@ -1,0 +1,20 @@
+Country,IsTelenorSupported
+Greece,TRUE
+Ireland,FALSE
+Romania,TRUE
+Czech Republic,FALSE
+Austria,TRUE
+Serbia,FALSE
+Spain,TRUE
+Hungary,FALSE
+Croatia,TRUE
+Bulgaria,FALSE
+Russia,TRUE
+Denmark,FALSE
+Iceland,TRUE
+Germany,FALSE
+Poland,TRUE
+Italy,FALSE
+Montenegro,TRUE
+France,FALSE
+Slovakia,TRUE
